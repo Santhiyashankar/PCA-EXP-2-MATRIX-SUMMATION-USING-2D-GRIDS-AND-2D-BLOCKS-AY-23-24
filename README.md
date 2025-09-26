@@ -3,7 +3,7 @@
 <h3>Santhiya S </h3>
 <h3>212223220098</h3>
 <h3>EX-NO: 2</h3>
-<h3>>24.09.25</h3>
+<h3>24.09.25</h3>
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
